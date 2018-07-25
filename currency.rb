@@ -15,7 +15,7 @@ choice = gets.chomp().to_i
  
 case choice
 when 1
-  
+  choice= 1.20
 when 2
   #code here
 when 3
